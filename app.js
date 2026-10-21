@@ -4,7 +4,7 @@ const port = process.env.PORT;
 
 // Define a route for the root URL
 app.get('/', (req, res) => {
-  res.send('Hello World! My first Node.js app is running. CI/CD 6');
+  res.send('Hello World! My first Node.js app is running. CI/CD 7');
 });
 
 // Start the server
